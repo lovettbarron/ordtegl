@@ -95,13 +95,56 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| (To be populated by roadmap) | | |
+| PRIV-01 | Phase 1 | Pending |
+| PRIV-02 | Phase 1 | Pending |
+| PRIV-03 | Phase 1 | Pending |
+| PRIV-04 | Phase 1 | Pending |
+| PRIV-05 | Phase 1 | Pending |
+| PRIV-06 | Phase 1 | Pending |
+| PRIV-07 | Phase 1 | Pending |
+| PRIV-08 | Phase 1 | Pending |
+| PRIV-09 | Phase 1 | Pending |
+| PRIV-10 | Phase 1 | Pending |
+| PRIV-11 | Phase 1 | Pending |
+| PRIV-12 | Phase 1 | Pending |
+| PRIV-13 | Phase 1 | Pending |
+| PRIV-14 | Phase 1 | Pending |
+| TERMS-01 | Phase 1 | Pending |
+| TERMS-02 | Phase 1 | Pending |
+| TERMS-03 | Phase 1 | Pending |
+| TERMS-04 | Phase 1 | Pending |
+| TERMS-05 | Phase 1 | Pending |
+| TERMS-06 | Phase 1 | Pending |
+| TERMS-07 | Phase 1 | Pending |
+| TERMS-08 | Phase 1 | Pending |
+| SITE-01 | Phase 1 | Pending |
+| SITE-02 | Phase 1 | Pending |
+| SITE-03 | Phase 1 | Pending |
+| SITE-04 | Phase 1 | Pending |
+| SITE-05 | Phase 1 | Pending |
+| SUPP-01 | Phase 2 | Pending |
+| SUPP-02 | Phase 2 | Pending |
+| SUPP-03 | Phase 2 | Pending |
+| SUPP-04 | Phase 2 | Pending |
+| LAND-01 | Phase 3 | Pending |
+| LAND-02 | Phase 3 | Pending |
+| LAND-03 | Phase 3 | Pending |
+| LAND-04 | Phase 3 | Pending |
+| LAND-05 | Phase 3 | Pending |
+| LAND-06 | Phase 3 | Pending |
+| PRESS-01 | Phase 4 | Pending |
+| PRESS-02 | Phase 4 | Pending |
+| PRESS-03 | Phase 4 | Pending |
+| PRESS-04 | Phase 4 | Pending |
+| PRESS-05 | Phase 4 | Pending |
+| ATTR-01 | Phase 4 | Pending |
+| ATTR-02 | Phase 4 | Pending |
 
 **Coverage:**
 - v1 requirements: 33 total
-- Mapped to phases: 0
-- Unmapped: 33 ⚠️
+- Mapped to phases: 33
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-01-30*
-*Last updated: 2026-01-30 after initial definition*
+*Last updated: 2026-01-30 after roadmap creation*
