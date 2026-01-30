@@ -1,0 +1,60 @@
+// Ordtegl Warm Neutrals Design System
+// Design tokens for color, typography, spacing, and layout
+
+// ============================================
+// Color Palette - Warm Neutrals
+// ============================================
+
+// Primary palette
+$color-cream-light: #FAF7F2;
+$color-cream: #F5EFE7;
+$color-gray-soft: #D8D4CF;
+$color-gray-medium: #8E8B87;
+$color-gray-dark: #4A4745;
+$color-terracotta: #D4826C;
+$color-terracotta-dark: #B8654F;
+
+// ============================================
+// Semantic Color Tokens
+// ============================================
+
+// Backgrounds
+$color-background: $color-cream-light;
+$color-surface: $color-cream;
+
+// Text
+$color-text-primary: $color-gray-dark;
+$color-text-secondary: $color-gray-medium;
+
+// Accents
+$color-accent: $color-terracotta;
+$color-accent-hover: $color-terracotta-dark;
+
+// Borders
+$color-border: $color-gray-soft;
+
+// ============================================
+// Typography
+// ============================================
+
+$font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-size-base: 16px;
+$line-height-base: 1.6;
+
+// ============================================
+// Spacing Scale
+// ============================================
+
+$spacing-xs: 0.5rem;   // 8px
+$spacing-sm: 1rem;     // 16px
+$spacing-md: 1.5rem;   // 24px
+$spacing-lg: 3rem;     // 48px
+$spacing-xl: 6rem;     // 96px
+
+// ============================================
+// Layout Tokens
+// ============================================
+
+$max-width-content: 800px;
+$border-radius-sm: 4px;
+$border-radius-md: 8px;
