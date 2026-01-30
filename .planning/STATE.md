@@ -10,28 +10,28 @@ See: .planning/PROJECT.md (updated 2026-01-30)
 ## Current Position
 
 Phase: 1 of 4 (Foundation & Legal Pages)
-Plan: 3 of 5 complete
+Plan: 4 of 5 complete
 Status: In progress
-Last activity: 2026-01-30 — Completed 01-03-PLAN.md (Privacy policy page)
+Last activity: 2026-01-30 — Completed 01-04-PLAN.md (Terms of service page)
 
-Progress: [███░░░░░░░] 30%
+Progress: [████░░░░░░] 40%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 3
+- Total plans completed: 4
 - Average duration: 5 min
-- Total execution time: 0.2 hours
+- Total execution time: 0.3 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| 01    | 3     | 15 min | 5 min    |
+| 01    | 4     | 18 min | 5 min    |
 
 **Recent Trend:**
-- Last 5 plans: 7, 5, 3
-- Trend: Improving velocity (3 min on latest plan)
+- Last 5 plans: 7, 5, 3, 3
+- Trend: Consistent velocity (3 min on latest 2 plans)
 
 *Updated after each plan completion*
 
@@ -55,6 +55,9 @@ Recent decisions affecting current work:
 | User ID disclosure | 01-03 | Transparency for App Store and GDPR | Analytics linked to anonymous user ID for cohort analysis |
 | Plain language summaries | 01-03 | Improves accessibility without compromising legal precision | Privacy policy readable by non-legal users |
 | Step-by-step deletion | 01-03 | GDPR right to erasure requires clear process | Users can easily exercise deletion rights |
+| Prominent exam disclaimer | 01-04 | Critical legal requirement for exam prep claims | PD2, PD3 explicitly mentioned as non-affiliated bodies |
+| Comprehensive liability limits | 01-04 | Protect against vocabulary accuracy/exam claims | Three-part liability section with maximum liability cap |
+| Danish jurisdiction | 01-04 | App published from Danish App Store account | Disputes resolved under Danish legal system |
 
 **From PROJECT.md:**
 - Jekyll over other SSGs: Native GitHub Pages support, no build action needed
@@ -71,10 +74,10 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-01-30 22:21
-Stopped at: Completed 01-03-PLAN.md (Privacy policy page)
+Last session: 2026-01-30 23:22
+Stopped at: Completed 01-04-PLAN.md (Terms of service page)
 Resume file: None
-Next: 01-04-PLAN.md (Terms of service page)
+Next: 01-05-PLAN.md
 
 ---
 *Last updated: 2026-01-30*
