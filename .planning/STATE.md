@@ -10,28 +10,28 @@ See: .planning/PROJECT.md (updated 2026-01-30)
 ## Current Position
 
 Phase: 1 of 4 (Foundation & Legal Pages)
-Plan: 1 of 3 complete
+Plan: 2 of 5 complete
 Status: In progress
-Last activity: 2026-01-30 — Completed 01-01-PLAN.md (Jekyll setup & design system)
+Last activity: 2026-01-30 — Completed 01-02-PLAN.md (Site layout structure)
 
-Progress: [█░░░░░░░░░] 10%
+Progress: [██░░░░░░░░] 20%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 1
-- Average duration: 7 min
-- Total execution time: 0.1 hours
+- Total plans completed: 2
+- Average duration: 6 min
+- Total execution time: 0.2 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| 01    | 1     | 7 min | 7 min    |
+| 01    | 2     | 12 min | 6 min    |
 
 **Recent Trend:**
-- Last 5 plans: 7
-- Trend: First plan completed
+- Last 5 plans: 7, 5
+- Trend: Consistent velocity
 
 *Updated after each plan completion*
 
@@ -49,6 +49,9 @@ Recent decisions affecting current work:
 | Semantic color tokens | 01-01 | Enables theme changes by remapping only | Easier maintenance, future theme variations possible |
 | System font stack | 01-01 | Zero latency, familiar to users | Better performance, no web font loading |
 | Ruby 3.3.7 via rbenv | 01-01 | System Ruby too old for github-pages gem | Consistent Ruby across development environments |
+| Data-driven navigation | 01-02 | Single source of truth for site structure | Navigation from _data/navigation.yml, easy to modify |
+| Mobile-first responsive | 01-02 | Simpler CSS, better mobile performance | Base mobile styles with desktop overrides at 768px |
+| Semantic HTML5 | 01-02 | Better accessibility, SEO, code clarity | Header, nav, main, footer elements for document structure |
 
 **From PROJECT.md:**
 - Jekyll over other SSGs: Native GitHub Pages support, no build action needed
@@ -65,10 +68,10 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-01-30 23:09
-Stopped at: Completed 01-01-PLAN.md (Jekyll setup & design system)
+Last session: 2026-01-30 22:16
+Stopped at: Completed 01-02-PLAN.md (Site layout structure)
 Resume file: None
-Next: 01-02-PLAN.md (layout creation)
+Next: 01-03-PLAN.md (Privacy policy page)
 
 ---
 *Last updated: 2026-01-30*
