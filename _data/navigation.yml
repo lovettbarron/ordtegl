@@ -1,0 +1,6 @@
+- name: Home
+  url: /
+- name: Privacy
+  url: /privacy/
+- name: Terms
+  url: /terms/
