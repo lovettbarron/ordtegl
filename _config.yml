@@ -2,8 +2,8 @@
 
 title: "Ordtegl"
 description: "Learn Danish vocabulary naturally"
-url: "https://ordtegl-public.github.io"
-baseurl: ""
+url: "https://lovettbarron.github.io"
+baseurl: "/ordtegl"
 
 # Theme
 theme: minima
