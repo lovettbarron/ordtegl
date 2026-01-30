@@ -29,10 +29,14 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. Terms of service page is accessible at ordtegl-public.github.io/terms/ with stable URL
   4. Site displays correctly on mobile devices with warm neutrals design aesthetic (creams, soft grays, terracotta)
   5. Site is deployed to GitHub Pages and publicly accessible via HTTPS
-**Plans**: TBD
+**Plans:** 5 plans
 
 Plans:
-- [ ] TBD during planning
+- [ ] 01-01-PLAN.md — Jekyll foundation with config, Gemfile, and warm neutrals SASS design system
+- [ ] 01-02-PLAN.md — Site structure with default layout, header, footer, and navigation
+- [ ] 01-03-PLAN.md — Privacy policy page with full data practice disclosures
+- [ ] 01-04-PLAN.md — Terms of service page with exam disclaimer and legal terms
+- [ ] 01-05-PLAN.md — Deploy to GitHub Pages and verify live URLs
 
 ### Phase 2: Support & FAQ
 **Goal**: Users can find support contact information and clear account deletion instructions
@@ -85,7 +89,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation & Legal Pages | 0/TBD | Not started | - |
+| 1. Foundation & Legal Pages | 0/5 | Planned | - |
 | 2. Support & FAQ | 0/TBD | Not started | - |
 | 3. Landing Page | 0/TBD | Not started | - |
 | 4. Press Kit & Attribution | 0/TBD | Not started | - |
