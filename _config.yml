@@ -1,0 +1,37 @@
+# Ordtegl Public Site Configuration
+
+title: "Ordtegl"
+description: "Learn Danish vocabulary naturally"
+url: "https://ordtegl-public.github.io"
+baseurl: ""
+
+# Theme
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Permalinks
+permalink: pretty
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .planning/
