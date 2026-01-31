@@ -140,7 +140,7 @@ You can delete your Ordtegl account and all associated data at any time.
 
 For users in the European Union, Ordtegl complies with the General Data Protection Regulation (GDPR).
 
-**Data controller:** Andrew Bair, operating as Ordtegl
+**Data controller:** Andrew Lovett-Barron (individual developer)
 
 **Legal basis for processing:**
 - **Analytics collection:** Consent (you may opt out in Settings)
