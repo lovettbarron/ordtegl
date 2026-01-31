@@ -142,10 +142,7 @@ are owned by the developer and are protected by international copyright, tradema
 
 ### Third-Party Data
 
-Ordtegl incorporates data from licensed sources:
-
-- **OpenSubtitles frequency data**: Used under license to determine vocabulary relevance (attribution provided in press kit)
-- **COR (Det Centrale Ordregister)**: Danish dictionary data used under applicable license terms
+- **COR (Det Centrale Ordregister)**: Danish dictionary data used under CC BY-NC-ND license terms
 
 ### User Rights
 

@@ -67,8 +67,7 @@
 
 ### Attribution (Conditional)
 
-- [x] **ATTR-01**: OpenSubtitles attribution section (if required by license)
-- [x] **ATTR-02**: COR (Det Centrale Ordregister) attribution (if required by license)
+- [x] **ATTR-01**: COR (Det Centrale Ordregister) attribution (required by CC BY-NC-ND license)
 
 ## v2 Requirements
 
