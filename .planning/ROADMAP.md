@@ -47,10 +47,10 @@ Plans:
   2. User can find contact email (alb+ordtegl@andrewlb.com) displayed prominently
   3. User can read step-by-step account deletion instructions
   4. User can find answers to common questions in FAQ section
-**Plans**: TBD
+**Plans:** 1 plan
 
 Plans:
-- [ ] TBD during planning
+- [ ] 02-01-PLAN.md — Support page with contact info, account deletion, and FAQ
 
 ### Phase 3: Landing Page
 **Goal**: Potential users can discover the app, understand its value, and download from App Store
@@ -85,12 +85,12 @@ Plans:
 ## Progress
 
 **Execution Order:**
-Phases execute in numeric order: 1 → 2 → 3 → 4
+Phases execute in numeric order: 1 -> 2 -> 3 -> 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation & Legal Pages | 5/5 | ✓ Complete | 2026-01-31 |
-| 2. Support & FAQ | 0/TBD | Not started | - |
+| 1. Foundation & Legal Pages | 5/5 | Complete | 2026-01-31 |
+| 2. Support & FAQ | 0/1 | Not started | - |
 | 3. Landing Page | 0/TBD | Not started | - |
 | 4. Press Kit & Attribution | 0/TBD | Not started | - |
 
