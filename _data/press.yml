@@ -44,3 +44,8 @@ attributions:
     license: "CC BY-NC-ND"
     attribution: "Data provided by Det Danske Sprog- og Litteraturselskab (DSL) and Center for Sprogteknologi (CST)"
     url: "https://ordregister.dk"
+  - name: "OpenSubtitles"
+    description: "Word frequency data derived from Danish subtitle corpus for vocabulary prioritization"
+    license: "ODC-By (Open Data Commons Attribution License)"
+    attribution: "Data provided by OpenSubtitles.org"
+    url: "https://opensubtitles.org"

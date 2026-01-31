@@ -143,6 +143,7 @@ are owned by the developer and are protected by international copyright, tradema
 ### Third-Party Data
 
 - **COR (Det Centrale Ordregister)**: Danish dictionary data used under CC BY-NC-ND license terms
+- **OpenSubtitles**: Word frequency data used under ODC-By (Open Data Commons Attribution License) terms
 
 ### User Rights
 
