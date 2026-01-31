@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="90" fill="#F5EFE7"/>
+  <rect x="50" y="50" width="412" height="412" rx="60" fill="#D4826C" opacity="0.2"/>
+  <text x="256" y="240" text-anchor="middle" font-family="system-ui" font-size="100" font-weight="600" fill="#D4826C">O</text>
+  <text x="256" y="340" text-anchor="middle" font-family="system-ui" font-size="40" fill="#4A4745">Ordtegl</text>
+</svg>
