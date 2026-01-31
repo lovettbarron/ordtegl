@@ -77,10 +77,10 @@ Plans:
   3. User can download high-resolution app screenshots
   4. User can copy short and long app descriptions
   5. User can see OpenSubtitles and COR attributions if required by licenses
-**Plans**: TBD
+**Plans:** 1 plan
 
 Plans:
-- [ ] TBD during planning
+- [ ] 04-01-PLAN.md — Press kit page with icons, screenshots, copyable descriptions, and attributions
 
 ## Progress
 
@@ -92,7 +92,7 @@ Phases execute in numeric order: 1 -> 2 -> 3 -> 4
 | 1. Foundation & Legal Pages | 5/5 | Complete | 2026-01-31 |
 | 2. Support & FAQ | 1/1 | Complete | 2026-01-31 |
 | 3. Landing Page | 1/1 | Complete | 2026-01-31 |
-| 4. Press Kit & Attribution | 0/TBD | Not started | - |
+| 4. Press Kit & Attribution | 0/1 | Not started | - |
 
 ---
 *Roadmap created: 2026-01-30*
