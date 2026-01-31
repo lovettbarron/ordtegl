@@ -1,0 +1,158 @@
+// Press Kit page styles
+
+.press-intro {
+  text-align: center;
+  margin-bottom: $spacing-xl;
+}
+
+.press-section {
+  margin-bottom: $spacing-xl;
+}
+
+// Description blocks with copy functionality
+.description-block {
+  margin-bottom: $spacing-lg;
+
+  h3 {
+    margin-bottom: $spacing-sm;
+  }
+}
+
+.copyable {
+  position: relative;
+  background-color: $color-surface;
+  border: 1px solid $color-border;
+  border-radius: $border-radius-sm;
+  padding: $spacing-md;
+  padding-right: 80px; // Room for copy button
+
+  pre {
+    margin: 0;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-family: inherit;
+    font-size: $font-size-base;
+    color: $color-text-primary;
+  }
+}
+
+.copy-btn {
+  position: absolute;
+  top: $spacing-sm;
+  right: $spacing-sm;
+  background-color: $color-accent;
+  color: white;
+  border: none;
+  border-radius: $border-radius-sm;
+  padding: $spacing-xs $spacing-sm;
+  cursor: pointer;
+  font-size: $font-size-base * 0.875;
+  transition: background-color 0.2s ease;
+
+  &:hover {
+    background-color: $color-accent-hover;
+  }
+
+  &.copied {
+    background-color: $color-gray-medium;
+  }
+}
+
+// Asset grids (icons and screenshots)
+.asset-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: $spacing-md;
+  margin-bottom: $spacing-xl;
+}
+
+.asset-card {
+  background-color: $color-surface;
+  border: 1px solid $color-border;
+  border-radius: $border-radius-sm;
+  padding: $spacing-md;
+  text-align: center;
+
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: $spacing-sm;
+    border-radius: $border-radius-sm;
+  }
+
+  .asset-name {
+    font-weight: 600;
+    margin-bottom: $spacing-xs;
+  }
+
+  .asset-meta {
+    font-size: $font-size-base * 0.875;
+    color: $color-text-secondary;
+    margin-bottom: $spacing-sm;
+  }
+
+  .download-btn {
+    display: inline-block;
+    background-color: $color-accent;
+    color: white;
+    padding: $spacing-xs $spacing-sm;
+    border-radius: $border-radius-sm;
+    text-decoration: none;
+    font-size: $font-size-base * 0.875;
+
+    &:hover {
+      background-color: $color-accent-hover;
+      color: white;
+    }
+  }
+}
+
+// Attribution section
+.attributions {
+  margin-top: $spacing-xl;
+  padding-top: $spacing-lg;
+  border-top: 1px solid $color-border;
+}
+
+.attribution-item {
+  background-color: $color-surface;
+  border-left: 4px solid $color-accent;
+  padding: $spacing-md;
+  margin-bottom: $spacing-md;
+
+  h4 {
+    margin-top: 0;
+    margin-bottom: $spacing-xs;
+  }
+
+  .license {
+    font-size: $font-size-base * 0.875;
+    color: $color-text-secondary;
+    margin-bottom: $spacing-xs;
+  }
+
+  .note {
+    font-size: $font-size-base * 0.875;
+    font-style: italic;
+    color: $color-text-secondary;
+    margin-top: $spacing-sm;
+  }
+}
+
+// Responsive adjustments
+@media (max-width: 767px) {
+  .copyable {
+    padding-right: $spacing-md;
+    padding-bottom: 60px; // Stack button below on mobile
+  }
+
+  .copy-btn {
+    top: auto;
+    bottom: $spacing-sm;
+    right: $spacing-sm;
+  }
+
+  .asset-grid {
+    grid-template-columns: 1fr;
+  }
+}
