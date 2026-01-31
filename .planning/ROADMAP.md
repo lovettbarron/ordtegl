@@ -12,7 +12,7 @@ This roadmap delivers a Jekyll-based public website for the Ordtegl iOS app, hos
 
 Decimal phases appear between their surrounding integers in numeric order.
 
-- [ ] **Phase 1: Foundation & Legal Pages** - Jekyll setup + privacy policy + terms of service
+- [x] **Phase 1: Foundation & Legal Pages** - Jekyll setup + privacy policy + terms of service
 - [ ] **Phase 2: Support & FAQ** - User support infrastructure and account deletion docs
 - [ ] **Phase 3: Landing Page** - Public-facing marketing content
 - [ ] **Phase 4: Press Kit & Attribution** - Media resources and legal attributions
@@ -32,11 +32,11 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans:** 5 plans
 
 Plans:
-- [ ] 01-01-PLAN.md — Jekyll foundation with config, Gemfile, and warm neutrals SASS design system
-- [ ] 01-02-PLAN.md — Site structure with default layout, header, footer, and navigation
-- [ ] 01-03-PLAN.md — Privacy policy page with full data practice disclosures
-- [ ] 01-04-PLAN.md — Terms of service page with exam disclaimer and legal terms
-- [ ] 01-05-PLAN.md — Deploy to GitHub Pages and verify live URLs
+- [x] 01-01-PLAN.md — Jekyll foundation with config, Gemfile, and warm neutrals SASS design system
+- [x] 01-02-PLAN.md — Site structure with default layout, header, footer, and navigation
+- [x] 01-03-PLAN.md — Privacy policy page with full data practice disclosures
+- [x] 01-04-PLAN.md — Terms of service page with exam disclaimer and legal terms
+- [x] 01-05-PLAN.md — Deploy to GitHub Pages and verify live URLs
 
 ### Phase 2: Support & FAQ
 **Goal**: Users can find support contact information and clear account deletion instructions
@@ -89,11 +89,11 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation & Legal Pages | 0/5 | Planned | - |
+| 1. Foundation & Legal Pages | 5/5 | ✓ Complete | 2026-01-31 |
 | 2. Support & FAQ | 0/TBD | Not started | - |
 | 3. Landing Page | 0/TBD | Not started | - |
 | 4. Press Kit & Attribution | 0/TBD | Not started | - |
 
 ---
 *Roadmap created: 2026-01-30*
-*Last updated: 2026-01-30*
+*Last updated: 2026-01-31*
