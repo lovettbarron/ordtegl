@@ -122,10 +122,10 @@
 | SITE-03 | Phase 1 | Complete |
 | SITE-04 | Phase 1 | Complete |
 | SITE-05 | Phase 1 | Complete |
-| SUPP-01 | Phase 2 | Pending |
-| SUPP-02 | Phase 2 | Pending |
-| SUPP-03 | Phase 2 | Pending |
-| SUPP-04 | Phase 2 | Pending |
+| SUPP-01 | Phase 2 | Complete |
+| SUPP-02 | Phase 2 | Complete |
+| SUPP-03 | Phase 2 | Complete |
+| SUPP-04 | Phase 2 | Complete |
 | LAND-01 | Phase 3 | Pending |
 | LAND-02 | Phase 3 | Pending |
 | LAND-03 | Phase 3 | Pending |
