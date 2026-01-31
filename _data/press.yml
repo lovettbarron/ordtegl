@@ -23,14 +23,20 @@ icons:
 
 screenshots:
   - name: "Practice View"
-    file: "/assets/press/screenshots/screenshot-full-1.svg"
+    file: "/assets/images/screenshots/quiz.png"
     description: "Flashcard practice with vocabulary word and translation"
-  - name: "Progress View"
-    file: "/assets/press/screenshots/screenshot-full-2.svg"
+  - name: "Dashboard"
+    file: "/assets/images/screenshots/dashboard.png"
     description: "Learning progress statistics and daily goals"
-  - name: "Vocabulary List"
-    file: "/assets/press/screenshots/screenshot-full-3.svg"
+  - name: "Library"
+    file: "/assets/images/screenshots/library.png"
     description: "Browse vocabulary items by level and status"
+  - name: "Level View"
+    file: "/assets/images/screenshots/level.png"
+    description: "Vocabulary lessons organized by CEFR level"
+  - name: "Settings"
+    file: "/assets/images/screenshots/settings.png"
+    description: "App settings and preferences"
 
 attributions:
   - name: "COR (Det Centrale Ordregister)"

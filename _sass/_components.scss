@@ -45,9 +45,32 @@ details[open] summary::before {
   content: "\2212"; // Unicode minus sign
 }
 
-// Content padding
+// Content styling
 details > *:not(summary) {
   padding: 0 $spacing-md $spacing-sm;
+}
+
+// Markdown content inside details
+details > div {
+  // Reset margins for first/last elements
+  > *:first-child {
+    margin-top: 0;
+  }
+
+  > *:last-child {
+    margin-bottom: 0;
+  }
+
+  // Style lists properly
+  ul, ol {
+    margin-left: $spacing-md;
+    margin-bottom: $spacing-sm;
+  }
+
+  // Style paragraphs
+  p {
+    margin-bottom: $spacing-sm;
+  }
 }
 
 // Remove default marker in Safari/Chrome
