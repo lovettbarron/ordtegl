@@ -14,7 +14,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 
 - [x] **Phase 1: Foundation & Legal Pages** - Jekyll setup + privacy policy + terms of service
 - [x] **Phase 2: Support & FAQ** - User support infrastructure and account deletion docs
-- [ ] **Phase 3: Landing Page** - Public-facing marketing content
+- [x] **Phase 3: Landing Page** - Public-facing marketing content
 - [ ] **Phase 4: Press Kit & Attribution** - Media resources and legal attributions
 
 ## Phase Details
@@ -65,7 +65,7 @@ Plans:
 **Plans:** 1 plan
 
 Plans:
-- [ ] 03-01-PLAN.md — Landing page with hero, features, screenshots, and App Store link
+- [x] 03-01-PLAN.md — Landing page with hero, features, screenshots, and App Store link
 
 ### Phase 4: Press Kit & Attribution
 **Goal**: Media can access press resources and legal attributions are properly displayed
@@ -91,7 +91,7 @@ Phases execute in numeric order: 1 -> 2 -> 3 -> 4
 |-------|----------------|--------|-----------|
 | 1. Foundation & Legal Pages | 5/5 | Complete | 2026-01-31 |
 | 2. Support & FAQ | 1/1 | Complete | 2026-01-31 |
-| 3. Landing Page | 0/1 | Not started | - |
+| 3. Landing Page | 1/1 | Complete | 2026-01-31 |
 | 4. Press Kit & Attribution | 0/TBD | Not started | - |
 
 ---
