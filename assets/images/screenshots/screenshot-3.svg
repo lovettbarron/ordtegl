@@ -1,0 +1,32 @@
+<svg width="200" height="400" viewBox="0 0 200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- iPhone mockup background -->
+  <rect width="200" height="400" rx="20" fill="#FAF7F2"/>
+  <rect x="10" y="10" width="180" height="380" rx="15" fill="#FFFFFF"/>
+
+  <!-- Status bar -->
+  <rect x="20" y="20" width="160" height="20" fill="#F5EFE7"/>
+
+  <!-- Header -->
+  <rect x="20" y="50" width="160" height="40" fill="#F5EFE7"/>
+  <text x="100" y="75" font-family="system-ui" font-size="16" font-weight="600" text-anchor="middle" fill="#4A4745">Vocabulary List</text>
+
+  <!-- List items -->
+  <rect x="30" y="110" width="140" height="45" rx="4" fill="#F5EFE7" stroke="#D8D4CF" stroke-width="1"/>
+  <text x="35" y="133" font-family="system-ui" font-size="14" font-weight="600" fill="#4A4745">arbejde</text>
+  <text x="35" y="148" font-family="system-ui" font-size="11" fill="#8E8B87">to work</text>
+
+  <rect x="30" y="165" width="140" height="45" rx="4" fill="#F5EFE7" stroke="#D8D4CF" stroke-width="1"/>
+  <text x="35" y="188" font-family="system-ui" font-size="14" font-weight="600" fill="#4A4745">familie</text>
+  <text x="35" y="203" font-family="system-ui" font-size="11" fill="#8E8B87">family</text>
+
+  <rect x="30" y="220" width="140" height="45" rx="4" fill="#F5EFE7" stroke="#D8D4CF" stroke-width="1"/>
+  <text x="35" y="243" font-family="system-ui" font-size="14" font-weight="600" fill="#4A4745">hus</text>
+  <text x="35" y="258" font-family="system-ui" font-size="11" fill="#8E8B87">house</text>
+
+  <rect x="30" y="275" width="140" height="45" rx="4" fill="#F5EFE7" stroke="#D8D4CF" stroke-width="1"/>
+  <text x="35" y="298" font-family="system-ui" font-size="14" font-weight="600" fill="#4A4745">lærer</text>
+  <text x="35" y="313" font-family="system-ui" font-size="11" fill="#8E8B87">teacher</text>
+
+  <!-- Label -->
+  <text x="100" y="375" font-family="system-ui" font-size="11" text-anchor="middle" fill="#8E8B87">3,500 Danish Words</text>
+</svg>
