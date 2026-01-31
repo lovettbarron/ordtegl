@@ -37,10 +37,10 @@ description: "Press resources for Ordtegl Danish vocabulary learning app"
   <div class="asset-grid">
     {% for icon in site.data.press.icons %}
     <div class="asset-card">
-      <img src="{{ icon.file }}" alt="{{ icon.name }}">
+      <img src="{{ icon.file | relative_url }}" alt="{{ icon.name }}">
       <p class="asset-name">{{ icon.name }}</p>
       <p class="asset-meta">{{ icon.size }} {{ icon.format }}</p>
-      <a href="{{ icon.file }}" download class="download-btn">Download</a>
+      <a href="{{ icon.file | relative_url }}" download class="download-btn">Download</a>
     </div>
     {% endfor %}
   </div>
@@ -53,10 +53,10 @@ description: "Press resources for Ordtegl Danish vocabulary learning app"
   <div class="asset-grid">
     {% for screenshot in site.data.press.screenshots %}
     <div class="asset-card">
-      <img src="{{ screenshot.file }}" alt="{{ screenshot.name }}">
+      <img src="{{ screenshot.file | relative_url }}" alt="{{ screenshot.name }}">
       <p class="asset-name">{{ screenshot.name }}</p>
       <p class="asset-meta">{{ screenshot.description }}</p>
-      <a href="{{ screenshot.file }}" download class="download-btn">Download</a>
+      <a href="{{ screenshot.file | relative_url }}" download class="download-btn">Download</a>
     </div>
     {% endfor %}
   </div>
@@ -79,4 +79,4 @@ description: "Press resources for Ordtegl Danish vocabulary learning app"
   {% endfor %}
 </section>
 
-<script src="/assets/js/clipboard.js"></script>
+<script src="{{ '/assets/js/clipboard.js' | relative_url }}"></script>
