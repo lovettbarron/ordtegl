@@ -5,22 +5,22 @@
 See: .planning/PROJECT.md (updated 2026-01-30)
 
 **Core value:** Provide a comprehensive, accessible privacy policy that satisfies App Store requirements and builds user trust, while giving the app a professional public presence.
-**Current focus:** Phase 2: Support & FAQ
+**Current focus:** Phase 3: Landing Page
 
 ## Current Position
 
-Phase: 2 of 4 (Support & FAQ)
+Phase: 3 of 4 (Landing Page)
 Plan: 1 of 1 complete
 Status: Phase complete
-Last activity: 2026-01-31 - Completed 02-01-PLAN.md (Support page with FAQ)
+Last activity: 2026-01-31 - Completed 03-01-PLAN.md (Full landing page with hero, features, screenshots)
 
-Progress: [████████████] 100% (Phase 2)
+Progress: [█████████████████] 100% (Phase 3)
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 6
-- Average duration: 6 min
+- Total plans completed: 7
+- Average duration: 5 min
 - Total execution time: 0.6 hours
 
 **By Phase:**
@@ -29,10 +29,11 @@ Progress: [████████████] 100% (Phase 2)
 |-------|-------|-------|----------|
 | 01    | 5     | 33 min | 7 min    |
 | 02    | 1     | 3 min  | 3 min    |
+| 03    | 1     | 3 min  | 3 min    |
 
 **Recent Trend:**
-- Last 5 plans: 5, 3, 3, 15, 3
-- Trend: Phase 02 single plan executed quickly (content-focused)
+- Last 5 plans: 3, 3, 15, 3, 3
+- Trend: Consistent 3-min execution for content-focused phases
 
 *Updated after each plan completion*
 
@@ -66,6 +67,10 @@ Recent decisions affecting current work:
 | Component styles pattern | 02-01 | Reusable UI component styling | _components.scss for accordion and future components |
 | 12 FAQ items | 02-01 | Comprehensive coverage of user questions | App basics, account, technical, exam prep topics |
 | Visible deletion instructions | 02-01 | Apple/GDPR requirement for accessible deletion | Not hidden in accordion, clear 5-step process |
+| Practice-focused headline | 03-01 | Position as practice tool not just exam prep | "Master Danish Words Through Practice" emphasizes spaced repetition |
+| Placeholder screenshots | 03-01 | Real screenshots require production app | SVG mockups as placeholders, user replaces before launch |
+| Visible landing disclaimer | 03-01 | Same exam disclaimer prominence as legal pages | Exam disclaimer visible on landing page (not just terms) |
+| Gradient hero background | 03-01 | Visual interest within design system | Subtle cream-to-surface gradient for hero depth |
 
 **From PROJECT.md:**
 - Jekyll over other SSGs: Native GitHub Pages support, no build action needed
@@ -82,10 +87,10 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-01-31 09:35
-Stopped at: Completed 02-01-PLAN.md (Support page with FAQ) - **PHASE 2 COMPLETE**
+Last session: 2026-01-31 10:11
+Stopped at: Completed 03-01-PLAN.md (Full landing page) - **PHASE 3 COMPLETE**
 Resume file: None
-Next: Phase 3 planning (Landing Page)
+Next: Phase 4 planning (Press Kit & Attributions)
 
 ---
 *Last updated: 2026-01-31*
