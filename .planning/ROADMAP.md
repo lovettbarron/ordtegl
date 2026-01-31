@@ -62,10 +62,10 @@ Plans:
   3. User can click App Store download badge/link to download the app
   4. User can view at least 3 app screenshots showing key features
   5. User can see exam prep disclaimer visible on landing page
-**Plans**: TBD
+**Plans:** 1 plan
 
 Plans:
-- [ ] TBD during planning
+- [ ] 03-01-PLAN.md — Landing page with hero, features, screenshots, and App Store link
 
 ### Phase 4: Press Kit & Attribution
 **Goal**: Media can access press resources and legal attributions are properly displayed
@@ -91,7 +91,7 @@ Phases execute in numeric order: 1 -> 2 -> 3 -> 4
 |-------|----------------|--------|-----------|
 | 1. Foundation & Legal Pages | 5/5 | Complete | 2026-01-31 |
 | 2. Support & FAQ | 1/1 | Complete | 2026-01-31 |
-| 3. Landing Page | 0/TBD | Not started | - |
+| 3. Landing Page | 0/1 | Not started | - |
 | 4. Press Kit & Attribution | 0/TBD | Not started | - |
 
 ---
