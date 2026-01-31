@@ -51,11 +51,11 @@
 
 ### Press Kit
 
-- [ ] **PRESS-01**: Press kit page accessible at stable URL (/press/)
-- [ ] **PRESS-02**: App icon in multiple sizes (downloadable)
-- [ ] **PRESS-03**: App screenshots (high resolution, downloadable)
-- [ ] **PRESS-04**: Short app description (1-2 sentences)
-- [ ] **PRESS-05**: Long app description (full marketing copy)
+- [x] **PRESS-01**: Press kit page accessible at stable URL (/press/)
+- [x] **PRESS-02**: App icon in multiple sizes (downloadable)
+- [x] **PRESS-03**: App screenshots (high resolution, downloadable)
+- [x] **PRESS-04**: Short app description (1-2 sentences)
+- [x] **PRESS-05**: Long app description (full marketing copy)
 
 ### Site Infrastructure
 
@@ -67,8 +67,8 @@
 
 ### Attribution (Conditional)
 
-- [ ] **ATTR-01**: OpenSubtitles attribution section (if required by license)
-- [ ] **ATTR-02**: COR (Det Centrale Ordregister) attribution (if required by license)
+- [x] **ATTR-01**: OpenSubtitles attribution section (if required by license)
+- [x] **ATTR-02**: COR (Det Centrale Ordregister) attribution (if required by license)
 
 ## v2 Requirements
 
@@ -132,13 +132,13 @@
 | LAND-04 | Phase 3 | Complete |
 | LAND-05 | Phase 3 | Complete |
 | LAND-06 | Phase 3 | Complete |
-| PRESS-01 | Phase 4 | Pending |
-| PRESS-02 | Phase 4 | Pending |
-| PRESS-03 | Phase 4 | Pending |
-| PRESS-04 | Phase 4 | Pending |
-| PRESS-05 | Phase 4 | Pending |
-| ATTR-01 | Phase 4 | Pending |
-| ATTR-02 | Phase 4 | Pending |
+| PRESS-01 | Phase 4 | Complete |
+| PRESS-02 | Phase 4 | Complete |
+| PRESS-03 | Phase 4 | Complete |
+| PRESS-04 | Phase 4 | Complete |
+| PRESS-05 | Phase 4 | Complete |
+| ATTR-01 | Phase 4 | Complete |
+| ATTR-02 | Phase 4 | Complete |
 
 **Coverage:**
 - v1 requirements: 33 total
@@ -147,4 +147,4 @@
 
 ---
 *Requirements defined: 2026-01-30*
-*Last updated: 2026-01-31 after Phase 3 completion*
+*Last updated: 2026-01-31 after Phase 4 completion*
