@@ -1,0 +1,56 @@
+// FAQ Accordion styling using native details/summary
+// Follows warm neutrals design system from _variables.scss
+
+details {
+  border: 1px solid $color-border;
+  border-radius: $border-radius-sm;
+  margin-bottom: $spacing-sm;
+  background-color: $color-surface;
+
+  &[open] {
+    summary {
+      border-bottom: 1px solid $color-border;
+    }
+  }
+}
+
+summary {
+  padding: $spacing-sm $spacing-md;
+  cursor: pointer;
+  font-weight: 600;
+  color: $color-text-primary;
+  list-style: none; // Remove default arrow
+
+  // Custom indicator
+  &::before {
+    content: "+";
+    margin-right: $spacing-xs;
+    font-weight: normal;
+    display: inline-block;
+    width: 1em;
+  }
+
+  &:hover {
+    color: $color-accent;
+  }
+
+  &:focus {
+    outline: 2px solid $color-accent;
+    outline-offset: 2px;
+  }
+}
+
+// Change indicator when open
+details[open] summary::before {
+  content: "\2212"; // Unicode minus sign
+}
+
+// Content padding
+details > *:not(summary) {
+  padding: 0 $spacing-md $spacing-sm;
+}
+
+// Remove default marker in Safari/Chrome
+summary::-webkit-details-marker {
+  display: none;
+}
