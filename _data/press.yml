@@ -1,0 +1,46 @@
+short_description: "Ordtegl is a Danish vocabulary learning app with spaced repetition practice for PD2 and PD3 language tests."
+
+long_description: |
+  Ordtegl helps Danish language learners master vocabulary through scientifically-proven spaced repetition. With 3,500 vocabulary items across 32 CEFR-aligned levels (A1-B2), learners can practice at their own pace while preparing for Prøve i Dansk 2 (PD2) and Prøve i Dansk 3 (PD3) language tests.
+
+  Key features include personalized practice sessions that adapt to your learning progress, detailed statistics tracking, and flexible learning goals. The app uses the FSRS algorithm to optimize review timing, ensuring efficient long-term retention.
+
+  Built for iOS with a calm, focused interface designed to make vocabulary practice a daily habit.
+
+icons:
+  - name: "App Icon (1024×1024)"
+    file: "/assets/press/icons/app-icon-1024.svg"
+    size: "1024×1024"
+    format: "SVG"
+  - name: "App Icon (512×512)"
+    file: "/assets/press/icons/app-icon-512.svg"
+    size: "512×512"
+    format: "SVG"
+  - name: "App Icon (180×180)"
+    file: "/assets/press/icons/app-icon-180.svg"
+    size: "180×180"
+    format: "SVG"
+
+screenshots:
+  - name: "Practice View"
+    file: "/assets/press/screenshots/screenshot-full-1.svg"
+    description: "Flashcard practice with vocabulary word and translation"
+  - name: "Progress View"
+    file: "/assets/press/screenshots/screenshot-full-2.svg"
+    description: "Learning progress statistics and daily goals"
+  - name: "Vocabulary List"
+    file: "/assets/press/screenshots/screenshot-full-3.svg"
+    description: "Browse vocabulary items by level and status"
+
+attributions:
+  - name: "COR (Det Centrale Ordregister)"
+    description: "Vocabulary data derived from the Danish Central Word Register (COR.SEM.EXT)"
+    license: "CC BY-NC-ND"
+    attribution: "Data provided by Det Danske Sprog- og Litteraturselskab (DSL) and Center for Sprogteknologi (CST)"
+    url: "https://ordregister.dk"
+  - name: "OpenSubtitles"
+    description: "Word frequency data informed by Danish subtitle corpus"
+    license: "Conditional (verify specific terms)"
+    attribution: "Frequency data based on OpenSubtitles corpus"
+    url: "https://www.opensubtitles.org"
+    note: "Attribution included for transparency; verify if required by specific license terms"
