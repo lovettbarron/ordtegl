@@ -1,42 +1,42 @@
-short_description: "Ordtegl is a Danish vocabulary learning app with spaced repetition practice for PD2 and PD3 language tests."
+short_description: "Ordtegl is a free Danish vocabulary and grammar learning app with spaced repetition, exam-date pacing, and camera OCR — built for PD3 and PD2 exam preparation."
 
 long_description: |
-  Ordtegl helps Danish language learners master vocabulary through scientifically-proven spaced repetition. With 3,500 vocabulary items across 32 CEFR-aligned levels (A1-B2), learners can practice at their own pace while preparing for Prøve i Dansk 2 (PD2) and Prøve i Dansk 3 (PD3) language tests.
+  Ordtegl helps Danish language learners master vocabulary and grammar for Prove i Dansk 3 (PD3) and Prove i Dansk 2 (PD2) exams. With 3,300+ vocabulary items across 32 CEFR-aligned levels (A1-B2) and 40 grammar topics with 414 interactive exercises, learners get structured preparation tailored to their exam date.
 
-  Key features include personalized practice sessions that adapt to your learning progress, detailed statistics tracking, and flexible learning goals. The app uses the FSRS algorithm to optimize review timing, ensuring efficient long-term retention.
+  The app uses the FSRS spaced repetition algorithm to optimize review timing, ensuring efficient long-term retention. Exam-date pacing calculates daily study goals so learners stay on track. Camera OCR lets users photograph Danish text and add new words instantly. Custom word lists let learners build personal vocabulary from real-world encounters.
 
-  Built for iOS with a calm, focused interface designed to make vocabulary practice a daily habit.
+  Ordtegl is completely free — no ads, no subscriptions, no in-app purchases. The app is fully offline and requires no account or sign-in. Built for iOS with a calm, focused interface designed to make daily study a habit.
 
 icons:
-  - name: "App Icon (1024×1024)"
+  - name: "App Icon (1024x1024)"
     file: "/assets/press/icons/app-icon-1024.svg"
-    size: "1024×1024"
+    size: "1024x1024"
     format: "SVG"
-  - name: "App Icon (512×512)"
+  - name: "App Icon (512x512)"
     file: "/assets/press/icons/app-icon-512.svg"
-    size: "512×512"
+    size: "512x512"
     format: "SVG"
-  - name: "App Icon (180×180)"
+  - name: "App Icon (180x180)"
     file: "/assets/press/icons/app-icon-180.svg"
-    size: "180×180"
+    size: "180x180"
     format: "SVG"
 
 screenshots:
   - name: "Practice View"
     file: "/assets/images/screenshots/quiz.png"
-    description: "Flashcard practice with vocabulary word and translation"
+    description: "Vocabulary review with multiple choice quiz and progress tracking"
   - name: "Dashboard"
     file: "/assets/images/screenshots/dashboard.png"
-    description: "Learning progress statistics and daily goals"
+    description: "Daily dashboard with reviews due, streaks, exam readiness gauges, and 7-day forecast"
   - name: "Library"
     file: "/assets/images/screenshots/library.png"
-    description: "Browse vocabulary items by level and status"
+    description: "Level progression with CEFR-aligned vocabulary and pacing header"
   - name: "Level View"
     file: "/assets/images/screenshots/level.png"
-    description: "Vocabulary lessons organized by CEFR level"
+    description: "Vocabulary lessons organized by CEFR level with word details"
   - name: "Settings"
     file: "/assets/images/screenshots/settings.png"
-    description: "App settings and preferences"
+    description: "App settings including exam date, notifications, and analytics opt-out"
 
 attributions:
   - name: "COR (Det Centrale Ordregister)"

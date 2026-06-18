@@ -2,12 +2,12 @@
 layout: default
 title: Support
 permalink: /support/
-description: Get help with Ordtegl - contact us, delete your account, or find answers to common questions.
+description: Get help with Ordtegl - contact us, manage your data, or find answers to common questions.
 ---
 
 # Support
 
-We're here to help! Whether you have a question about using Ordtegl, need to manage your account, or want to know more about how the app works, you'll find what you need below.
+Whether you have a question about using Ordtegl, need help with the app, or want to report a vocabulary error, you'll find what you need below.
 
 ## Contact Us {#contact}
 
@@ -17,36 +17,26 @@ Have a question or need help? We'd love to hear from you.
 
 We aim to respond to all inquiries within 7 business days.
 
-## Account Deletion {#account-deletion}
+## Deleting Your Data {#data-deletion}
 
-You can delete your Ordtegl account and all associated data at any time directly from the app.
+Ordtegl is fully local-only — all your data is stored on your device. There is no server-side data to delete.
 
-### How to delete your account
+### How to reset your progress
 
 1. Open Ordtegl on your iOS device
 2. Navigate to **Settings**
-3. Tap **Account**
-4. Tap **Delete Account**
-5. Confirm deletion
+3. Tap **Reset Progress**
+4. Confirm the reset
 
-### What gets deleted
+### How to delete all data
 
-When you delete your account, the following data is permanently removed:
+Deleting the Ordtegl app from your device removes all local learning data. To manage iCloud backup data, go to your device's iCloud settings.
 
-- All learning progress data
-- All vocabulary completion records
-- FSRS scheduling data
-- Account authentication information
-
-**Important:** Account deletion is immediate and irreversible. You will lose all learning progress and cannot recover it.
-
-### Having trouble?
-
-If you encounter issues deleting your account through the app, contact us at [alb+ordtegl@andrewlb.com](mailto:alb+ordtegl@andrewlb.com) and we will manually delete your account within 7 business days.
+**Note:** Resetting progress or deleting the app is irreversible. You will lose all learning progress and cannot recover it.
 
 ## Frequently Asked Questions
 
-Looking for answers? Visit our [FAQ page](/faq/) for detailed information about using Ordtegl, account management, spaced repetition, and more.
+Looking for answers? Visit our [FAQ page](/faq/) for detailed information about using Ordtegl, grammar lessons, spaced repetition, camera OCR, and more.
 
 ---
 

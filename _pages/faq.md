@@ -2,7 +2,7 @@
 layout: default
 title: Frequently Asked Questions
 permalink: /faq/
-description: Common questions about Ordtegl - the Danish vocabulary learning app using spaced repetition.
+description: Common questions about Ordtegl - the Danish vocabulary and grammar learning app for PD3 and PD2 exam preparation.
 ---
 
 # Frequently Asked Questions
@@ -13,7 +13,25 @@ Find answers to common questions about using Ordtegl below.
   <summary>What is Ordtegl?</summary>
   <div markdown="1">
 
-Ordtegl is a Danish vocabulary learning app designed to help you build your vocabulary using spaced repetition. The app covers vocabulary from beginner (A1) through upper-intermediate (B2) CEFR levels, with words and phrases organized into thematic lessons.
+Ordtegl is a Danish vocabulary and grammar learning app designed to help you prepare for Prove i Dansk 3 (PD3) and Prove i Dansk 2 (PD2) exams. The app covers vocabulary from beginner (A1) through upper-intermediate (B2) CEFR levels, with 3,300+ words and 40 grammar topics with interactive exercises. It uses the FSRS spaced repetition algorithm to optimize your study time.
+
+  </div>
+</details>
+
+<details>
+  <summary>Is Ordtegl really free?</summary>
+  <div markdown="1">
+
+Yes. Ordtegl is completely free — no ads, no subscriptions, no in-app purchases. It was built by a fellow immigrant in Denmark who wanted a better study tool for the Danish exams.
+
+  </div>
+</details>
+
+<details>
+  <summary>Do I need to create an account?</summary>
+  <div markdown="1">
+
+No. Ordtegl works without any account or sign-up. Just download the app and start learning. Your progress is stored on your device and backed up automatically via iCloud.
 
   </div>
 </details>
@@ -25,11 +43,10 @@ Ordtegl is a Danish vocabulary learning app designed to help you build your voca
 Getting started with Ordtegl is simple:
 
 1. Download Ordtegl from the App Store
-2. Sign in with Apple to create your account
-3. Choose your current vocabulary level (A1, A2, B1, or B2)
-4. Start learning! The app will guide you through vocabulary practice sessions
+2. Choose your target exam (PD3 or PD2) and set your exam date
+3. Start learning! The app builds a personalized daily study pace for you
 
-Your progress is automatically saved and synced, so you can pick up where you left off.
+No account creation needed — just open the app and go.
 
   </div>
 </details>
@@ -38,95 +55,38 @@ Your progress is automatically saved and synced, so you can pick up where you le
   <summary>What vocabulary does Ordtegl include?</summary>
   <div markdown="1">
 
-Ordtegl includes Danish vocabulary organized by CEFR levels:
+Ordtegl includes 3,300+ Danish vocabulary items organized by CEFR levels:
 
 - **A1 (Beginner):** Basic everyday words and phrases
 - **A2 (Elementary):** Common expressions and simple conversations
 - **B1 (Intermediate):** More complex topics and abstract concepts
 - **B2 (Upper-Intermediate):** Advanced vocabulary for nuanced communication
 
-Each level contains thematic lessons covering topics like family, work, travel, health, and more.
+Every word includes English translations, example sentences, noun genders, and verb conjugations.
 
   </div>
 </details>
 
 <details>
-  <summary>How do I create an account?</summary>
+  <summary>What grammar topics are covered?</summary>
   <div markdown="1">
 
-Ordtegl uses Sign in with Apple for account creation and authentication. When you first open the app:
+Ordtegl includes 40 grammar topics with 414 interactive exercises across A1 through B2 levels. Exercise types include:
 
-1. Tap "Sign in with Apple"
-2. Choose whether to share your email or use Apple's private relay
-3. Confirm with Face ID, Touch ID, or your passcode
+- **Cloze (fill-in-the-blank):** Type the missing word in a sentence
+- **Contrastive drills:** Choose the correct option (e.g., en vs. et)
+- **Sentence reordering:** Put words in the correct order
 
-That's it! Your account is created automatically, and your learning progress will sync across all your devices signed into the same Apple ID.
+Grammar topics unlock progressively as you advance through the levels.
 
   </div>
 </details>
 
 <details>
-  <summary>Is my progress synced across devices?</summary>
+  <summary>Can I use Ordtegl offline?</summary>
   <div markdown="1">
 
-Yes! Your learning progress is automatically synced to our secure servers. As long as you're signed in with the same Apple ID, your progress will appear on any iOS device where you use Ordtegl.
-
-  </div>
-</details>
-
-<details>
-  <summary>How do I reset my learning progress?</summary>
-  <div markdown="1">
-
-To reset your learning progress:
-
-1. Open Ordtegl
-2. Go to **Settings**
-3. Tap **Reset Progress**
-4. Confirm the reset
-
-**Note:** This will erase all your vocabulary progress and start you fresh. This action cannot be undone.
-
-  </div>
-</details>
-
-<details>
-  <summary>What data does Ordtegl collect?</summary>
-  <div markdown="1">
-
-Ordtegl collects the following data:
-
-- **Learning progress:** Which words you've studied and your completion status
-- **FSRS scheduling data:** Information to optimize when you review vocabulary
-- **Analytics (optional):** App usage patterns to help us improve Ordtegl
-
-Your email address (from Sign in with Apple) is used only for account identification. You can opt out of analytics in Settings without affecting app functionality.
-
-For complete details, see our [Privacy Policy](/privacy/).
-
-  </div>
-</details>
-
-<details>
-  <summary>Can Ordtegl help me prepare for PD2 or PD3 exams?</summary>
-  <div markdown="1">
-
-Ordtegl can be a useful supplementary study tool for building your Danish vocabulary. The app covers vocabulary across CEFR levels A1 through B2, which overlaps with vocabulary that may appear in Danish language proficiency tests.
-
-**Important disclaimer:** Ordtegl is not affiliated with, endorsed by, or officially connected to any Danish language examination bodies, including Proveudvalget for Dansk (responsible for PD2, PD3, and other official tests). Ordtegl is supplementary study material only. We make no guarantees about exam outcomes, and using Ordtegl does not guarantee success on any official examination.
-
-For official exam preparation, please consult the official exam body resources and consider formal language courses.
-
-  </div>
-</details>
-
-<details>
-  <summary>Is Ordtegl affiliated with Danish exam bodies?</summary>
-  <div markdown="1">
-
-**No.** Ordtegl is not affiliated with, endorsed by, or officially connected to any Danish language examination bodies, including Proveudvalget for Dansk (responsible for PD2, PD3, and other official tests).
-
-Ordtegl is an independent vocabulary learning app created as supplementary study material. We are not an official exam preparation resource, and using Ordtegl does not guarantee success on any Danish language examination.
+Yes. Ordtegl is 100% offline. All vocabulary, grammar, and review logic runs on your device. You can study on the metro, in a waiting room, or anywhere without internet. The app makes no network calls except for optional anonymous analytics.
 
   </div>
 </details>
@@ -148,16 +108,61 @@ This approach helps you remember vocabulary long-term while minimizing time spen
 </details>
 
 <details>
-  <summary>Can I use Ordtegl offline?</summary>
+  <summary>Can Ordtegl help me prepare for PD2 or PD3 exams?</summary>
   <div markdown="1">
 
-Ordtegl requires an internet connection for:
+Ordtegl is designed specifically for PD3 and PD2 exam preparation. The exam-date pacing feature calculates how many words you need to learn each day based on your exam date, and the vocabulary is organized across CEFR levels A1 through B2 to match exam requirements.
 
-- Initial sign-in and account creation
-- Syncing your progress to the cloud
-- Downloading vocabulary content
+**Important disclaimer:** Ordtegl is not affiliated with, endorsed by, or officially connected to any Danish language examination bodies, including Proveudvalget for Dansk (responsible for PD2, PD3, and other official tests). Ordtegl is supplementary study material only. We make no guarantees about exam outcomes.
 
-Once vocabulary is downloaded, you can practice even with a spotty connection. Your progress will sync automatically when you're back online.
+  </div>
+</details>
+
+<details>
+  <summary>What is the Camera OCR feature?</summary>
+  <div markdown="1">
+
+Ordtegl can extract Danish words from photos using on-device text recognition. Point your camera at signs, menus, textbook pages, or any Danish text, and the app will identify the words and let you add them to your custom word lists for review. All image processing happens entirely on your device — no images are ever uploaded or stored.
+
+  </div>
+</details>
+
+<details>
+  <summary>What data does Ordtegl collect?</summary>
+  <div markdown="1">
+
+Ordtegl is fully local-only. There are no accounts, no sign-in, and no server. Your learning data never leaves your device except for:
+
+- **iCloud backup:** Your progress is backed up automatically via iCloud (managed by Apple)
+- **Analytics (optional):** Anonymous app usage patterns sent to PostHog's EU servers to help improve the app
+
+You can opt out of analytics in Settings without affecting app functionality. No email addresses, names, or personal identifiers are collected.
+
+For complete details, see our [Privacy Policy](/privacy/).
+
+  </div>
+</details>
+
+<details>
+  <summary>How do I delete my data?</summary>
+  <div markdown="1">
+
+Since Ordtegl stores everything locally on your device:
+
+1. To reset your learning progress: go to **Settings** and tap **Reset Progress**
+2. To delete all data completely: delete the Ordtegl app from your device
+3. To manage iCloud backup data: go to your device's iCloud settings
+
+There is no server-side data to delete since Ordtegl has no backend.
+
+  </div>
+</details>
+
+<details>
+  <summary>What language is the app in?</summary>
+  <div markdown="1">
+
+The app interface is in English, and all vocabulary includes Danish words with English translations. This makes it accessible whether you are just starting out or already at an intermediate level.
 
   </div>
 </details>
@@ -166,13 +171,7 @@ Once vocabulary is downloaded, you can practice even with a spotty connection. Y
   <summary>How do I report a vocabulary error?</summary>
   <div markdown="1">
 
-If you find an error in a word, definition, or example sentence:
-
-1. While viewing the vocabulary item, tap the **Report** button
-2. Describe the error you found
-3. Submit your report
-
-We review all error reports and update the content regularly. Thank you for helping us improve Ordtegl!
+If you find an error in a word, definition, or example sentence, please contact us at [alb+ordtegl@andrewlb.com](mailto:alb+ordtegl@andrewlb.com) with details about the error. We review all reports and update the content regularly.
 
   </div>
 </details>

@@ -1,5 +1,7 @@
 - name: Home
   url: /
+- name: FAQ
+  url: /faq/
 - name: Privacy
   url: /privacy/
 - name: Terms
